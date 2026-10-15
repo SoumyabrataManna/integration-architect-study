@@ -10,5 +10,6 @@ Study material for enterprise integration architecture, with a focus on Boomi.
 | [02-event-driven-architecture](02-event-driven-architecture/) | Event-driven architecture: broker and mediator topologies, event mesh, CQRS, event sourcing, outbox, idempotency, CloudEvents, AsyncAPI, schema evolution |
 | [03-boomi](03-boomi/) | Boomi error handling frameworks (API, database, event-driven) and reference guides (shapes, connectors, AI agents, SSO and roles, architect Q&A) |
 | [04-interview-prep](04-interview-prep/) | Business framing, system-design Q&A and 50 technical-round questions (sanitized) |
+| [05-ai](05-ai/) | RAG Field Mapper technical design: few-shot vs RAG field mapping with Claude, domain-filtered retrieval, feedback loop and confidence calibration |
 
 Each pattern document has diagrams, a use case, sample code and trade-offs.
